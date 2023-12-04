@@ -18,7 +18,7 @@ Outdoor water savings can be achieved using smart irrigation technologies. Smart
 These products maximize irrigation efficiency by reducing water waste, while maintaining plant health and quality. Incorporating smart irrigation technology in the landscape can potentially reduce outdoor water consumption. This technology is appropriate for small, residential landscapes as well as large, managed landscapes. The following sections describe how each product functions and the advantages and disadvantages of each product.  Irrigation managers and homeowners should be aware that smart irrigation technology will need to be periodically adjusted and maintained for maximum water savings.
 
 
-</br
+</br>
 
 </br>
 <h3 align="left"> Smart Irrigation Technology: New Controllers 👋</h3>
