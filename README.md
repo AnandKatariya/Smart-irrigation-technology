@@ -64,7 +64,13 @@ Freeze sensors interrupt an irrigation cycle when air temperatures fall below 32
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lk6q060-_74BaZKKIIXvtYWN5QwoabROc0N718TA7XZwGb8CFuRoTdxYaFJwp3vGWVs&usqp=CAU" height="200" width="200" />
+</br>
+</br>
+<h3 align="left"> Project Overview </h3>
 
+
+
+<img src="https://github.com/AnandKatariya/Smart-irrigation-technology/blob/main/pic/Screenshot_20231204_120906_Gallery.jpg" height="300" width="300" />
 
 
 
