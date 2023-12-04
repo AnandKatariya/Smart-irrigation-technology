@@ -63,7 +63,9 @@ Freeze sensors interrupt an irrigation cycle when air temperatures fall below 32
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lk6q060-_74BaZKKIIXvtYWN5QwoabROc0N718TA7XZwGb8CFuRoTdxYaFJwp3vGWVs&usqp=CAU" height="200" width="200" />
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lk6q060-_74BaZKKIIXvtYWN5QwoabROc0N718TA7XZwGb8CFuRoTdxYaFJwp3vGWVs&usqp=CAU
+
+
+
 
 
 
