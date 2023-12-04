@@ -27,6 +27,8 @@ These products maximize irrigation efficiency by reducing water waste, while mai
 There is a broad spectrum of smart irrigation technology that consumers can benefit from utilizing. Choosing the correct technology for the situation is essential to achieve potential water savings. Watering restrictions exist in some areas of Maharashtra, so the irrigation timer may be adjusted for allowed watering days. Irrigation controllers can be separated into two main categories: Climate based controllers and soil moisture based controllers.
 
 
+</br>
+</br>
 
 <h3 align="left"> Soil Moisture Sensor Controllers 👋</h3>
 
@@ -37,8 +39,31 @@ The second type of smart irrigation controllers includes soil moisture sensor co
 
 Similar to ET controllers, soil moisture controllers have been shown to reduce irrigation, while maintaining turfgrass quality. Compared to homeowner irrigation schedules, soil moisture controllers had an average 72 percent irrigation savings and a 34 percent water savings during drought conditions (Cardenas-Laihacer et al., 2010; Cardenas-Laihacer et al., 2008).  In some cases, studies have shown smart controllers will increase water use at sites that typically use less than the theoretical irrigation requirement (Mayer and Deoreo, 2010). Typically, soil moisture sensor controllers range from $280 to $1,800. Difference in pricing depends on product manufacturer and end user, either residential or commercial customers.
 
-<img src="https://nevonexpress.in/wp-content/uploads/2021/10/Soil-Moisture-Sensor-Module-1.jpg" />
+<img src="https://nevonexpress.in/wp-content/uploads/2021/10/Soil-Moisture-Sensor-Module-1.jpg" height="150" width="150" />
 
+</br>
+</br>
+
+<h3 align="left"> Rain Sensors 👋</h3>
+Although these sensors are not considered smart technology, rain and freeze sensors interrupt the irrigation cycle during a rain or freeze event when irrigation is unnecessary. Watering during the rain wastes water, money and causes unnecessary runoff. Three different types of rain sensors are available and each function is based on separate concepts.
+The original type of rain sensor still in use today works with a small cup or basin that collects water, once a pre-determined amount is collected, the weight of the cup interrupts the irrigation cycle (Figure 4). Debris in the cup can also interrupt the irrigation cycle and should be checked and cleared of litter periodically.
+The second type of rain sensor uses a dish with two electrodes that are a specific distance from the bottom of the cup.  The distance can be adjusted to allow for small rain events and similar to the first type of rain sensor, debris can reduce accuracy by displacing water in the cup.  When the water reaches the electrodes, the irrigation cycle is interrupted.
+The third type of rain sensor does not have a rain catch cup, which makes it low maintenance and reliable.  Instead, the sensor uses several disks that expand as they get wet (Figure 5). The expanded disks trigger the switch and interrupt the cycle. The system will resume the scheduled cycles once the disks dry out. The disks should be checked at least once a year to determine if they need to be replaced. All of the devices should be mounted in an open area where they will receive rainfall.
+
+Potential water savings depends on the amount of rainfall in any given year.  During years with average to above average rainfall, water savings are more significant than during dry years.  Rain sensors have shown payback periods of less than a year, but should be monitored for optimum performance (Cardenas-Laihacar and Dukes, 2008).
+
+ 
+As an example, if a homeowner’s irrigation system waters a ¼-acre yard and applies 1 inch of water each irrigation cycle, then each cycle applies 6,789 gallons of water. If water costs $5.00 per 1,000 gallons, the monetary savings will be $33.95 each time the irrigation cycle is interrupted during a rainfall event.  Considering each rainfall event, the homeowner could expect substantial water and money savings.  Most wireless rain sensors are more expensive and range from $120 to $200, while wired rain sensors cost approximately $30 to $50.
+
+ 
+
+Freeze sensors interrupt an irrigation cycle when air temperatures fall below 32 F.  Eliminating irrigation during freezing temperatures can potentially extend irrigation system life and prevent sidewalks and streets from icing over, causing dangerous situations. Many rain sensors include a freeze sensor and homeowners should account for sensor capability when considering price
+
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lk6q060-_74BaZKKIIXvtYWN5QwoabROc0N718TA7XZwGb8CFuRoTdxYaFJwp3vGWVs&usqp=CAU" height="200" width="200" />
+
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7lk6q060-_74BaZKKIIXvtYWN5QwoabROc0N718TA7XZwGb8CFuRoTdxYaFJwp3vGWVs&usqp=CAU
 
 
 
